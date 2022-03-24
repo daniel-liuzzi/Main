@@ -1,5 +1,5 @@
 {
-    "version": "2021.2-2252059",
+    "version": "2021.2-2264565",
     "description": "Provides access to versioned files in Helix Core through a command-line interface.",
     "homepage": "https://www.perforce.com/products/helix-core-apps/command-line-client",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "32bit": {
             "url": "https://cdist2.perforce.com/perforce/r21.2/bin.ntx86/p4.exe",
-            "hash": "9ce22b59e20203ddc6c19f0da8b0035594a5c8c2b0a9aa20ad3ffd480736dd2b"
+            "hash": "55578a70d7653701a9f0b4f601f9f0b71544a6466041ef3823b0caa97dcccf14"
         },
         "64bit": {
             "url": "https://cdist2.perforce.com/perforce/r21.2/bin.ntx64/p4.exe",
-            "hash": "e2a654317be972c6ba7519d716f9715ff41c3d415498f7dcf56806156277ed76"
+            "hash": "796a7498a7835501f2db6734f1be703282466aa87c68d44ff15cdae3150635a6"
         }
     },
     "bin": "p4.exe",
