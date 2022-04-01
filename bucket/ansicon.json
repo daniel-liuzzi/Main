@@ -1,10 +1,10 @@
 {
-    "version": "1.88",
+    "version": "1.89",
     "description": "Process ANSI escape sequences for Windows console programs.",
     "homepage": "http://ansicon.adoxa.vze.com/",
     "license": "Zlib",
-    "url": "https://github.com/adoxa/ansicon/releases/download/v1.88/ansi188-bin.zip",
-    "hash": "c48f9de9cf1de847f01180ba98a830d747c8d1a1b0fd168c59f26de031fd441c",
+    "url": "https://github.com/adoxa/ansicon/releases/download/v1.89/ansi189-bin.zip",
+    "hash": "646c34073df5dcaf81e6b74a5d05074f32d25ed190a8a9009abea00c3dd9184c",
     "architecture": {
         "64bit": {
             "extract_dir": "x64"
