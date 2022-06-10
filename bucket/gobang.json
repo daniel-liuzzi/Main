@@ -1,13 +1,13 @@
 {
-    "version": "0.1.0-alpha.5",
+    "version": "0.1.0-alpha.4",
     "description": "TUI database management tool",
     "homepage": "https://github.com/TaKO8Ki/gobang",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/TaKO8Ki/gobang/releases/download/v0.1.0-alpha.5/gobang-0.1.0-alpha.5-x86_64-pc-windows-msvc.zip",
-            "hash": "4fb7d76776cc778e047b25eb460cdf76745642b937efa07737d0ee077b4541a5",
-            "extract_dir": "gobang-0.1.0-alpha.5-x86_64-pc-windows-msvc"
+            "url": "https://github.com/TaKO8Ki/gobang/releases/download/v0.1.0-alpha.4/gobang-0.1.0-alpha.4-x86_64-pc-windows-msvc.zip",
+            "hash": "22d7bb96ae36b36fd0362325610bff4f5bc73487b64154d21533154f857645cb",
+            "extract_dir": "gobang-0.1.0-alpha.4-x86_64-pc-windows-msvc"
         }
     },
     "bin": "gobang.exe",
