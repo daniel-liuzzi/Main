@@ -1,5 +1,5 @@
 {
-    "version": "1.3.11",
+    "version": "1.3.12",
     "description": "Camunda workflow instance monitor/manager",
     "homepage": "https://docs.camunda.io/docs/product-manuals/zeebe/zeebe-overview/",
     "license": {
@@ -13,11 +13,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/camunda-cloud/zeebe/releases/download/1.3.11/camunda-cloud-operate-1.3.11.zip",
-            "hash": "sha1:c6761b907334821b03b72a8f86c526d9b7716051"
+            "url": "https://github.com/camunda-cloud/zeebe/releases/download/1.3.12/camunda-cloud-operate-1.3.12.zip",
+            "hash": "sha1:d6f4ab4c2f58a820cdf21345e2ce721d3815ed8d"
         }
     },
-    "extract_dir": "camunda-cloud-operate-1.3.11",
+    "extract_dir": "camunda-cloud-operate-1.3.12",
     "bin": [
         [
             "bin\\operate.bat",
