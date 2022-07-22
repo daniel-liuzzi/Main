@@ -1,5 +1,5 @@
 {
-    "version": "0.19.1",
+    "version": "0.19.0",
     "description": "Elm language compiler.",
     "homepage": "https://elm-lang.org",
     "license": "BSD-3-Clause",
@@ -9,8 +9,8 @@
             "nodejs-lts"
         ]
     },
-    "url": "https://github.com/elm/compiler/releases/download/0.19.1/installer-for-windows.exe#/dl.7z",
-    "hash": "02947d00090f556abcf8f8e95997ac993825bd783abf05786afe8f60a002d496",
+    "url": "https://github.com/elm/compiler/releases/download/0.19.0/installer-for-windows.exe#/dl.7z",
+    "hash": "b7139002a7f348c0428da6f47db551642f9c5d8a178a08e5b5a426a9a1d8a7d9",
     "extract_dir": "bin",
     "bin": "elm.exe",
     "checkver": {
