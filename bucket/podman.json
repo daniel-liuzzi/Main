@@ -1,13 +1,13 @@
 {
-    "version": "4.2.1",
+    "version": "4.3.0",
     "description": "A tool for managing OCI containers and pods.",
     "homepage": "https://podman.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/containers/podman/releases/download/v4.2.1/podman-remote-release-windows_amd64.zip",
-            "hash": "d6f894217437004a11cfef20415d990cd5ba6acb6223926cf3c1e546346827f6",
-            "extract_dir": "podman-4.2.1"
+            "url": "https://github.com/containers/podman/releases/download/v4.3.0/podman-remote-release-windows_amd64.zip",
+            "hash": "d20fc6b5d54453d238bd261773c286597168690a76204a274a7791527ee90afa",
+            "extract_dir": "podman-4.3.0"
         }
     },
     "bin": "usr\\bin\\podman.exe",
