@@ -1,6 +1,6 @@
 {
     "##": "Version 2.8.3 was moved to https://github.com/ScoopInstaller/Versions/blob/master/bucket/lynx283.json",
-    "version": "2.9.0dev.11",
+    "version": "2.9.0dev.12",
     "description": "Text web browser.",
     "homepage": "https://invisible-island.net/lynx/lynx.html",
     "license": "GPL-2.0-only",
@@ -13,7 +13,7 @@
         "https://slproweb.com/download/Win32OpenSSL_Light-1_1_1m.exe"
     ],
     "hash": [
-        "a2a7a7be5e1d1da971ec2e190b1f63a6e90e13438469756fcb448f5f19cd99b3",
+        "d7b26ea8e5775c4a4412c3da824ca8776179e6fcbadb4de4c803e2c06997537b",
         "sha512:e1e4872e8248877f85477efabf01b83155c08de51a45551dcab378fe42dc9e327dd07374112e6e134859f1f8671c07b02889ed710292328d7de49372bc94d0c6"
     ],
     "innosetup": true,
