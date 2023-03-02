@@ -1,18 +1,18 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Colorizing `cat` utility",
     "homepage": "https://github.com/jingweno/ccat",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jingweno/ccat/releases/download/v1.0.0/windows-amd64-1.0.0.tar.gz",
-            "hash": "db9975c0b9f88f7d9c71220622c1353e9e23e957057610ca2c19f383bfe023eb",
-            "extract_dir": "windows-amd64-1.0.0"
+            "url": "https://github.com/jingweno/ccat/releases/download/v1.1.0/windows-amd64-1.1.0.tar.gz",
+            "hash": "45b4bff0f6988c72b876cb832af37cbf21ef6f2cf9871f9e1c1afb39c22122f9",
+            "extract_dir": "windows-amd64-1.1.0"
         },
         "32bit": {
-            "url": "https://github.com/jingweno/ccat/releases/download/v1.0.0/windows-386-1.0.0.tar.gz",
-            "hash": "de4220982f660dad18c1eb597b29108570f72392b5e69eaec9e4ba62c6ffc9a3",
-            "extract_dir": "windows-386-1.0.0"
+            "url": "https://github.com/jingweno/ccat/releases/download/v1.1.0/windows-386-1.1.0.tar.gz",
+            "hash": "65fb670b9dd821c9a5d547922ae1314aa449fdf0caa086163de5dd092936d534",
+            "extract_dir": "windows-386-1.1.0"
         }
     },
     "bin": "ccat.exe",
