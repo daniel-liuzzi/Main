@@ -1,17 +1,17 @@
 {
-    "version": "4.8",
+    "version": "4.9",
     "description": "sed (stream editor) is a non-interactive command-line text editor",
     "homepage": "https://www.gnu.org/software/sed",
     "license": "GPL-3.0-or-later",
-    "url": "https://packages.chocolatey.org/sed.4.8.nupkg",
-    "hash": "ee430b5edc827e1368cf424fb888e997fc05d24e7e90373b8e9c6811a26eec80",
+    "url": "https://packages.chocolatey.org/sed.4.9.nupkg",
+    "hash": "4a350bbdec9cfaf6b54f9f9b4d8a4c41bc0a14a91e30bcef7405c75199e9da12",
     "extract_dir": "tools\\install\\sed-windows-master",
     "post_install": "Remove-Item \"$dir\\tools\" -Recurse",
     "architecture": {
         "64bit": {
             "bin": [
                 [
-                    "sed-4.8-x64.exe",
+                    "sed-4.9-x64.exe",
                     "sed"
                 ]
             ]
@@ -19,7 +19,7 @@
         "32bit": {
             "bin": [
                 [
-                    "sed-4.8-xp.exe",
+                    "sed-4.9-xp.exe",
                     "sed"
                 ]
             ]
