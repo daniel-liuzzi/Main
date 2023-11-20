@@ -1,10 +1,10 @@
 {
-    "version": "3.23.3",
+    "version": "3.23.4",
     "description": "Perl script to add indentation to LaTeX files",
     "homepage": "https://github.com/cmhughes/latexindent.pl",
     "license": "GPL-3.0-only",
     "url": "http://mirrors.ctan.org/support/latexindent.zip",
-    "hash": "c8877a17ffbb753dbb3503184a60d02d56ae433215da00f8aed1ca68158eefd8",
+    "hash": "a9755850492aed126b4a87046587d33222abe5d883ce2f235441f03368417ab8",
     "extract_dir": "latexindent",
     "bin": "latexindent.exe",
     "checkver": {
