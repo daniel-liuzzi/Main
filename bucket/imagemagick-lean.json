@@ -1,16 +1,16 @@
 {
-    "version": "7.1.1-30",
+    "version": "7.1.1-31",
     "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
     "homepage": "https://imagemagick.org/",
     "license": "ImageMagick",
     "architecture": {
         "64bit": {
-            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-30-portable-Q16-HDRI-x64.zip",
-            "hash": "54cfc4a879d101e3d95f2f544254282a58af6b9a0d7bc62bcd8c1476f3819e29"
+            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-31-portable-Q16-HDRI-x64.zip",
+            "hash": "c13d2423a959cd1ecc67a980f85ed4591ed99343b9b0edbba9bb432f46b3214b"
         },
         "32bit": {
-            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-30-portable-Q16-HDRI-x86.zip",
-            "hash": "1f758df6182bc8f57bf8aab00335be186a985af3dae5bcb861fd634f9a2da2d0"
+            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-31-portable-Q16-HDRI-x86.zip",
+            "hash": "249e259c2b96722bb69b86d1872f68932f25f67a51e9c036b90e5ac477dc362d"
         }
     },
     "bin": [
