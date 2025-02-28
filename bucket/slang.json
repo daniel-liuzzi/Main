@@ -1,16 +1,16 @@
 {
-    "version": "2025.5.3",
+    "version": "2025.6",
     "description": "A new language and compiler for shader development.",
     "homepage": "https://shader-slang.com/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shader-slang/slang/releases/download/v2025.5.3/slang-2025.5.3-windows-x86_64.zip",
-            "hash": "e30f29639fadb2d05af0bc03776afc02a007c91d5f163611bb60960ef058e286"
+            "url": "https://github.com/shader-slang/slang/releases/download/v2025.6/slang-2025.6-windows-x86_64.zip",
+            "hash": "7e7e53119892fef2af331d0e88654c1c4806c2df3d95c7d5398ac73d3ad37206"
         },
         "arm64": {
-            "url": "https://github.com/shader-slang/slang/releases/download/v2025.5.3/slang-2025.5.3-windows-aarch64.zip",
-            "hash": "70c2a67523f25f62e268811c3e9b5ae2f3ecaa4cca472454cc7db4b820d77e04"
+            "url": "https://github.com/shader-slang/slang/releases/download/v2025.6/slang-2025.6-windows-aarch64.zip",
+            "hash": "1c1651cafef9541303dc050d34cb640e951960f2337bdb717b9dd7822689003e"
         }
     },
     "bin": [
