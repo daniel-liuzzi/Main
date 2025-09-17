@@ -1,12 +1,12 @@
 {
-    "version": "5.34.3.1",
+    "version": "5.42.0.1",
     "description": "A programming language suitable for writing simple scripts as well as complex applications.",
     "homepage": "https://strawberryperl.com",
     "license": "GPL-1.0-or-later|Artistic-1.0-Perl",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/sp5.34.3.1/strawberry-perl-5.34.3.1-64bit-portable.zip",
-            "hash": "94d312ed536bb5bec8d4d8a069c19cf5f275364b94bb4dd93da1c1aa5ef7652a"
+            "url": "https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54201_64bit/strawberry-perl-5.42.0.1-64bit-portable.zip",
+            "hash": "a1cde185656cf307b51670eed69f648b9eff15b5c518cb136e027c628e650b71"
         }
     },
     "post_install": [
