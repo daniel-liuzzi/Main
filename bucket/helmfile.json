@@ -1,16 +1,16 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "Command line interface to deploy Kubernetes Helm Charts.",
     "homepage": "https://github.com/helmfile/helmfile",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/helmfile/helmfile/releases/download/v1.2.1/helmfile_1.2.1_windows_amd64.tar.gz",
-            "hash": "66476a88164d560c83857db2b96ff1257839fedbf311dfa6eafa58bc261bf837"
+            "url": "https://github.com/helmfile/helmfile/releases/download/v1.2.2/helmfile_1.2.2_windows_amd64.tar.gz",
+            "hash": "80fd1a00804b3737618aecbe0ee388cb4bf074fd58d0ee07631293793d089fb0"
         },
         "32bit": {
-            "url": "https://github.com/helmfile/helmfile/releases/download/v1.2.1/helmfile_1.2.1_windows_386.tar.gz",
-            "hash": "452e4222f728c25f4315a3c9fae3c50e15f8ec0d0e56a26cf280b1d79c79ec80"
+            "url": "https://github.com/helmfile/helmfile/releases/download/v1.2.2/helmfile_1.2.2_windows_386.tar.gz",
+            "hash": "f5824e93650ca375ab5de0a057b8825849159fe0cc548d05a8999f3849aa63f4"
         }
     },
     "bin": "helmfile.exe",
