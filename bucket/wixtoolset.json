@@ -1,10 +1,10 @@
 {
-    "version": "7.0.0-rc.1",
+    "version": "7.0.0-rc.2",
     "description": "Set of tools for windows installer creation.",
     "homepage": "https://wixtoolset.org/",
     "license": "MS-RL",
-    "url": "https://api.nuget.org/v3-flatcontainer/wix/7.0.0-rc.1/wix.7.0.0-rc.1.nupkg",
-    "hash": "e6078f11e2b166bdb0c2686a4cd4ce1f7f6ea5211168089cc144e1f09bde0dfe",
+    "url": "https://api.nuget.org/v3-flatcontainer/wix/7.0.0-rc.2/wix.7.0.0-rc.2.nupkg",
+    "hash": "440d38da1073fd1859b3a96c56826d113be0f671abd89312085a19dfa6e61841",
     "extract_dir": "tools\\net6.0\\any",
     "bin": "wix.exe",
     "checkver": {
