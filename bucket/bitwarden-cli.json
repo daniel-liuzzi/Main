@@ -1,12 +1,12 @@
 {
-    "version": "2026.1.0",
+    "version": "2026.2.0",
     "description": "The powerful command-line tool (CLI) to write and execute scripts on your Bitwarden vault.",
     "homepage": "https://bitwarden.com/",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bitwarden/clients/releases/download/cli-v2026.1.0/bw-windows-2026.1.0.zip",
-            "hash": "9bdf26b54f149ffa1aed0e9f29c84e676d4d1e475c43a8c603c492a2d193003b"
+            "url": "https://github.com/bitwarden/clients/releases/download/cli-v2026.2.0/bw-windows-2026.2.0.zip",
+            "hash": "6e7fe65ef0d0401af20bb739cb81469a0c001d9ee249ceea4a86974ae27a4c46"
         }
     },
     "bin": "bw.exe",
