@@ -1,16 +1,16 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "A tool to validate the syntax of configuration files",
     "homepage": "https://boeing.github.io/config-file-validator/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Boeing/config-file-validator/releases/download/v2.0.0/validator-v2.0.0-windows-amd64.zip",
-            "hash": "md5:f2fc55a238276cc7bfc4040b91164cb1"
+            "url": "https://github.com/Boeing/config-file-validator/releases/download/v2.1.0/validator-v2.1.0-windows-amd64.zip",
+            "hash": "md5:c7f76309e3430d8fb65dc80d3d8b7e1a"
         },
         "32bit": {
-            "url": "https://github.com/Boeing/config-file-validator/releases/download/v2.0.0/validator-v2.0.0-windows-386.zip",
-            "hash": "md5:5a72d578d2b659ea6b5e888cd9379138"
+            "url": "https://github.com/Boeing/config-file-validator/releases/download/v2.1.0/validator-v2.1.0-windows-386.zip",
+            "hash": "md5:96d6d25d8319b5dcbbd8b00eabca3014"
         }
     },
     "bin": "validator.exe",
