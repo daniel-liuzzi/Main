@@ -1,5 +1,5 @@
 {
-    "version": "0.2.3.0",
+    "version": "0.2.4.0",
     "description": "GHCup is the main installer for the general purpose language Haskell",
     "homepage": "https://www.haskell.org/ghcup",
     "license": "LGPL-v3",
@@ -14,8 +14,8 @@
     "depends": "msys2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/haskell/ghcup-hs/releases/download/v0.2.3.0/x86_64-mingw64-ghcup-0.2.3.0.exe#/ghcup.exe",
-            "hash": "03bf5e029903a177614cae5c63f0e6e0f0c5f7400884dd005c78a7a3d151703f"
+            "url": "https://github.com/haskell/ghcup-hs/releases/download/v0.2.4.0/x86_64-mingw64-ghcup-0.2.4.0.exe#/ghcup.exe",
+            "hash": "5760a0d196b1bf13954e3421c0be0aa3bb7d1976e47baba804cc584cbb0971f9"
         }
     },
     "env_set": {
