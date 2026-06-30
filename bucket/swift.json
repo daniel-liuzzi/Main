@@ -1,5 +1,5 @@
 {
-    "version": "6.3.2",
+    "version": "6.3.3",
     "homepage": "https://www.swift.org/",
     "description": "A general-purpose programming language built using a modern approach to safety, performance, and software design patterns.",
     "license": "Apache-2.0",
@@ -13,8 +13,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://download.swift.org/swift-6.3.2-release/windows10/swift-6.3.2-RELEASE/swift-6.3.2-RELEASE-windows10.exe#/swiftsetup.exe",
-            "hash": "f5158308a937c0e9cbaa538993f7c2e46bd77ce56f271659f7a0629e6037092e"
+            "url": "https://download.swift.org/swift-6.3.3-release/windows10/swift-6.3.3-RELEASE/swift-6.3.3-RELEASE-windows10.exe#/swiftsetup.exe",
+            "hash": "235626548f249cd516d3d4d90eee980dccad46f3822dac1f8e3119b0fede94b7"
         }
     },
     "pre_install": [
