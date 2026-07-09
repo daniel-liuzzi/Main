@@ -1,12 +1,12 @@
 {
-    "version": "2.33.0",
+    "version": "2.34.0",
     "description": "A lightweight, framework-agnostic database migration tool",
     "homepage": "https://github.com/amacneil/dbmate",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/amacneil/dbmate/releases/download/v2.33.0/dbmate-windows-amd64.exe#/dbmate.exe",
-            "hash": "691853361a5edc34dd3f6bd2b7224c80e7d6cd9a712317b19eba7f2794f653e6"
+            "url": "https://github.com/amacneil/dbmate/releases/download/v2.34.0/dbmate-windows-amd64.exe#/dbmate.exe",
+            "hash": "5b851e5840a557723e40a9b6070df009c4d9279e34d28a8a8c16bdf9a3b59f89"
         }
     },
     "bin": "dbmate.exe",
