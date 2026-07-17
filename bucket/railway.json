@@ -1,16 +1,16 @@
 {
-    "version": "5.26.3",
+    "version": "5.26.4",
     "description": "The command line interface for Railway. Use it to connect your code to Railways infrastructure.",
     "homepage": "https://github.com/railwayapp/cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/railwayapp/cli/releases/download/v5.26.3/railway-v5.26.3-x86_64-pc-windows-msvc.zip",
-            "hash": "4e6539f712347e5ddc38f0a48e64a6271dff5197d713c0b3fb56ad7af97cb763"
+            "url": "https://github.com/railwayapp/cli/releases/download/v5.26.4/railway-v5.26.4-x86_64-pc-windows-msvc.zip",
+            "hash": "4b2f461e64344655b07a0b89e122ebfb946d3b4f288b3febb1df0dde6822b908"
         },
         "32bit": {
-            "url": "https://github.com/railwayapp/cli/releases/download/v5.26.3/railway-v5.26.3-i686-pc-windows-msvc.zip",
-            "hash": "fcead90af71faf456ce22500ce8d27b0203e1ea01deb2e9b279f90791b833e71"
+            "url": "https://github.com/railwayapp/cli/releases/download/v5.26.4/railway-v5.26.4-i686-pc-windows-msvc.zip",
+            "hash": "43a7b51819475a0ff5637119a8f4defe4e56e53a919070e82510c1d91ec6318d"
         }
     },
     "bin": "railway.exe",
