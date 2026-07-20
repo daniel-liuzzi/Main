@@ -1,20 +1,20 @@
 {
-    "version": "1.66.0",
+    "version": "1.66.1",
     "description": "A live-reloading command line utility for developing Go applications.",
     "homepage": "https://github.com/cosmtrek/air",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cosmtrek/air/releases/download/v1.66.0/air_1.66.0_windows_amd64.tar.gz",
-            "hash": "391d7b7b95fb0afd0cbdbe2f0c8a6bad95a59332ba127dbbffff2e00e6628016"
+            "url": "https://github.com/cosmtrek/air/releases/download/v1.66.1/air_1.66.1_windows_amd64.tar.gz",
+            "hash": "96f2b85b34299e2d7087b148b3ee269e105a32ca3db85c596182b1de54aab986"
         },
         "32bit": {
-            "url": "https://github.com/cosmtrek/air/releases/download/v1.66.0/air_1.66.0_windows_386.tar.gz",
-            "hash": "7ab2e7f8075bdb689feed64fcbcdbea96f5096283a07c30cb2431410b85ade84"
+            "url": "https://github.com/cosmtrek/air/releases/download/v1.66.1/air_1.66.1_windows_386.tar.gz",
+            "hash": "6f7eb8f869d7d72c074cbef2a9ffb9040fea18d5e0c162d20f13f67768ac2f4f"
         },
         "arm64": {
-            "url": "https://github.com/cosmtrek/air/releases/download/v1.66.0/air_1.66.0_windows_arm64.tar.gz",
-            "hash": "0b9d676e3e946ebbd80dbe8376b7d197e375b1bf99db3d87306c4ebd5cfc9d5b"
+            "url": "https://github.com/cosmtrek/air/releases/download/v1.66.1/air_1.66.1_windows_arm64.tar.gz",
+            "hash": "8e016493d8d3f08bde595a084654f1fcf7880785248f6f89b462d2f8cfb5822b"
         }
     },
     "bin": "air.exe",
