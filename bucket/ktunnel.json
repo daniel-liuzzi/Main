@@ -1,12 +1,12 @@
 {
-    "version": "2.4.0",
+    "version": "2.4.1",
     "description": "CLI tool to expose your local resources to Kubernetes.",
     "homepage": "https://github.com/omrikiei/ktunnel",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/omrikiei/ktunnel/releases/download/v2.4.0/ktunnel_2.4.0_Windows_x86_64.tar.gz",
-            "hash": "595dfcf7fe067ddd83c3f7fd338a9062fe3e8292a31ca689da1e9f93d8341f62"
+            "url": "https://github.com/omrikiei/ktunnel/releases/download/v2.4.1/ktunnel_2.4.1_Windows_x86_64.tar.gz",
+            "hash": "dad8e95be57be6a63f4b6f196f8d2197fc87d7710a7a882e2951c42580f18e3c"
         }
     },
     "bin": "ktunnel.exe",
