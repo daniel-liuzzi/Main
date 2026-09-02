@@ -1,18 +1,18 @@
 {
-    "version": "1.31.1",
+    "version": "1.31.2",
     "description": "A powerful duplicate file finder",
     "homepage": "https://codeberg.org/jbruchon/jdupes",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://codeberg.org/jbruchon/jdupes/releases/download/v1.31.1/jdupes-1.31.1-win64.zip",
-            "hash": "4c30e2f9a5edc564f42a1349103ae1897559965b5be394c76ebec14c01384121",
-            "extract_dir": "jdupes-1.31.1-win64"
+            "url": "https://codeberg.org/jbruchon/jdupes/releases/download/v1.31.2/jdupes-1.31.2-win64.zip",
+            "hash": "742b4e5cd624e8b60338b82a0f00bc72ef6e207c1da3d3d1d0ea6cd4b38c69ea",
+            "extract_dir": "jdupes-1.31.2-win64"
         },
         "32bit": {
-            "url": "https://codeberg.org/jbruchon/jdupes/releases/download/v1.31.1/jdupes-1.31.1-win32.zip",
-            "hash": "ccff717d9e57545500964bb64363ec9b6c99af3244dbab226a263ede27533378",
-            "extract_dir": "jdupes-1.31.1-win32"
+            "url": "https://codeberg.org/jbruchon/jdupes/releases/download/v1.31.2/jdupes-1.31.2-win32.zip",
+            "hash": "45226e9a31d145f57178a1d6aa36565f79605f462e529a9b0e06c42085d4cc64",
+            "extract_dir": "jdupes-1.31.2-win32"
         }
     },
     "bin": "jdupes.exe",
