@@ -1,5 +1,5 @@
 {
-    "version": "3.39.11",
+    "version": "3.39.12",
     "description": "Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall.",
     "homepage": "https://ngrok.com/",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "There are breaking changes in v3 of ngrok. For details, see: https://ngrok.com/docs/guides/upgrade-v2-v3. To stay on v2, install versions/ngrok2",
     "architecture": {
         "64bit": {
-            "url": "https://bin.equinox.io/a/P2eJimSQ97/ngrok-v3-3.39.11-windows-amd64.zip",
-            "hash": "699bbf1932ec43a573b764bd03e6568efa2c4e45955eb3cc2089c19bb4be4464"
+            "url": "https://bin.equinox.io/a/kUqBcNTVnQa/ngrok-v3-3.39.12-windows-amd64.zip",
+            "hash": "05181f7942ecfc22d4bc571b509fc923a69c05de5b06bb299676cc861ed8a81e"
         },
         "32bit": {
-            "url": "https://bin.equinox.io/a/6CjNuUeQ5Ti/ngrok-v3-3.39.11-windows-386.zip",
-            "hash": "2635ab8521cbd3ab4b99ce5da6c26e4c51a30d704fad53fbd4b01cdf29d94f81"
+            "url": "https://bin.equinox.io/a/cvHdAB55fbe/ngrok-v3-3.39.12-windows-386.zip",
+            "hash": "300b24fd2249c20d30e7dcfeaa5361c231eccabd3962cac71aa9dc5128487674"
         }
     },
     "bin": "ngrok.exe",
