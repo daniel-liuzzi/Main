@@ -1,6 +1,6 @@
 {
     "##": "Autoupdate only updates TrID Definitions. If the main program updates, please change hashes manually",
-    "version": "2.48-26.10.24",
+    "version": "2.48-26.10.28",
     "description": "A utility designed to identify file types from their binary signatures.",
     "homepage": "https://www.mark0.net/soft-trid-e.html",
     "license": "Shareware",
@@ -9,7 +9,7 @@
         "https://mark0.net/download/trid_w32.zip"
     ],
     "hash": [
-        "ef516e270529c28221eaf2573299600a3bd688edbf263b4ec3934bf896d1b57d",
+        "159d2c299225d945771b6786ad2bed15d9f0079b85a07fa65b8e60bcbb7a08f7",
         "ea7f82363912f5b3c79217ba8716425ec3f2514887f788dcd5a2821d0b1fc83f"
     ],
     "bin": "trid.exe",
