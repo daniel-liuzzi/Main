@@ -1,13 +1,13 @@
 {
-    "version": "1.8.8",
+    "version": "1.8.9",
     "description": "Open source framework for processing, monitoring, and alerting on time series data.",
     "homepage": "https://www.influxdata.com/time-series-platform/kapacitor/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://dl.influxdata.com/kapacitor/releases/kapacitor-1.8.8_windows_amd64.zip",
-            "hash": "df5a9ed6d07886b288313798e9e2e874a29e77742a532459806ade61cc1683d7",
-            "extract_dir": "kapacitor-1.8.8-1"
+            "url": "https://dl.influxdata.com/kapacitor/releases/kapacitor-1.8.9_windows_amd64.zip",
+            "hash": "e0a861d375e5d8f2e2adc797527be1639b26d5aab904ed31180fa87499deb729",
+            "extract_dir": "kapacitor-1.8.9-1"
         }
     },
     "bin": [
