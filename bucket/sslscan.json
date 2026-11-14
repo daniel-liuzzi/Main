@@ -1,12 +1,12 @@
 {
-    "version": "2.2.3",
+    "version": "2.2.4",
     "description": "Tests SSL/TLS enabled services to discover supported cipher suites",
     "homepage": "https://github.com/rbsec/sslscan",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rbsec/sslscan/releases/download/2.2.3/sslscan-2.2.3.zip",
-            "hash": "5b34352fd4ece318a37701b9867d9c948e374cdde2bbea13b9f9926b2163eeb5"
+            "url": "https://github.com/rbsec/sslscan/releases/download/2.2.4/sslscan-2.2.4.zip",
+            "hash": "6e803b87c84835916868c414aa6c1f0e5b85a554b37ab35c1a91a7df605cbe05"
         }
     },
     "bin": "sslscan.exe",
